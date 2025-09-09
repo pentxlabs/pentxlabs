@@ -1,5 +1,4 @@
-# 🌐 Pent X Corporation
-
+# 🌐 PENT X LABS
 ![Pent X Banner](https://img.shields.io/badge/Pent%20X-Innovation%20Hub-blueviolet?style=for-the-badge)  
 [![Website](https://img.shields.io/badge/🌍%20Website-pentxlabs.vercel.app-brightgreen?style=for-the-badge)](https://pentxlabs.vercel.app)  
 [![Email](https://img.shields.io/badge/📧%20Email-pentxcorporation@gmail.com-orange?style=for-the-badge)](mailto:pentxcorporation@gmail.com)  
@@ -8,7 +7,7 @@
 ---
 
 ## 🚀 About Us
-**Pent X Corporation** is a tech-driven organization based in 🇱🇰 **Sri Lanka**, focused on delivering **software solutions**, **digital experiences**, and **creative technology services**.  
+**Pent X LABS** is a tech-driven organization based in 🇱🇰 **Sri Lanka**, focused on delivering **software solutions**, **digital experiences**, and **creative technology services**.  
 
 We are passionate about:  
 - 🖥 **Web & App Development**  
