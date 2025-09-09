@@ -57,7 +57,7 @@ We’d love to collaborate with innovators, creators, and developers.
 - 🌍 [Website](https://pentxlabs.vercel.app)  
 - 📧 [Email](mailto:pentxcorporation@gmail.com)  
 - 🐙 [GitHub](https://github.com/pentXcorporation)  
-- 📘 [Facebook]([https://facebook.com/](https://www.facebook.com/profile.php?id=61577990624797))
+- 📘 [Facebook](https://www.facebook.com/profile.php?id=61577990624797))
 
 ---
 
